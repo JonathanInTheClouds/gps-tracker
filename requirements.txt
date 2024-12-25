@@ -1,0 +1,4 @@
+pyserial
+PyYAML
+gpsd-py3  # For built-in GPS using GPSD
+pytest     # For running test cases
