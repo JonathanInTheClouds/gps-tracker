@@ -1,2 +1,2 @@
-device_type: "usb_serial"
+device_type: "mock"
 port: "/dev/ttyUSB0"
